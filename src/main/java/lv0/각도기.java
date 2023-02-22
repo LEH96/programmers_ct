@@ -1,5 +1,7 @@
 package lv0;
 
+import java.math.BigDecimal;
+
 public class 각도기 {
     public class Solution {
         public int solution(int angle) {
