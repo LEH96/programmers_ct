@@ -1,6 +1,6 @@
 package org.example;
 
-import static lv0.Solution_1.solution;
+import static lv0.두수의차.Solution.solution;
 
 public class Main {
     public static void main(String[] args) {
