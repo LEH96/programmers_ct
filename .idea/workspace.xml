@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의곱.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의차.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/몫구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/숫자비교하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/Solution_1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/각도기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/나머지구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/나이출력.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의나눗셈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/짝수의합.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/두수의곱.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의곱.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/몫구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/몫구하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/숫자비교하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/숫자비교하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677043961165</updated>
-      <workItem from="1677043962253" duration="3240000" />
+      <workItem from="1677043962253" duration="4676000" />
     </task>
     <servers />
   </component>
