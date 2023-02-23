@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/문자열뒤집기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/배열뒤집기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/배열원소의길이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/배열의평균값.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/양꼬치.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/점의위치구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/중복된숫자개수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/짝수홀수개수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/피자나눠먹기1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/피자나눠먹기3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/각도기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/각도기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lv0/두수의차.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의차.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/숫자비교하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/숫자비교하기.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/배열의평균값.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/배열의평균값.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,25 +47,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Main">
+}</component>
+  <component name="RunManager" selected="JUnit.test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="programmers_ct.main" />
@@ -126,11 +110,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test.t2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programmers_ct.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test" />
+      <option name="METHOD_NAME" value="t2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.test.t1" />
         <item itemvalue="JUnit.test" />
+        <item itemvalue="JUnit.test.t2" />
+        <item itemvalue="JUnit.test.t1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +144,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677043961165</updated>
       <workItem from="1677043962253" duration="8857000" />
-      <workItem from="1677054099033" duration="4175000" />
+      <workItem from="1677054099033" duration="5275000" />
+      <workItem from="1677110640262" duration="616000" />
     </task>
     <servers />
   </component>
