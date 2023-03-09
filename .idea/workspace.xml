@@ -5,47 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/개미군단/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/머쓱이보다키큰사람/머쓱이보다키큰사람.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/모음제거/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/문자반복출력하기/문자반복출력하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/문자열안에문자열/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/배열두배만들기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/배열의유사도/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/배열자르기/배열자르기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/삼각형의완성조건1/삼각형의완성조건1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/순서쌍의개수/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/숨어있는숫자의덧셈1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/아이스아메리카노/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/옷가게할인받기/옷가게할인받기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/자릿수더하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/제곱수판별하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/중앙값구하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/짝수는싫어요/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/최댓값만들기1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/특정문자제거하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/편지/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/n의배수고르기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/가위바위보/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/가장큰수찾기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/게임369/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/대문자와소문자/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/모스부호1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/배열회전시키기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/세균증식/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/숫자찾기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/암호해독/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/약수구하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/외계행성의나이/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/인덱스바꾸기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/주사위의개수/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/직각삼각형출력하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/최댓값만들기2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/피자나눠먹기2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/합성수찾기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Polynomial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/각도기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/각도기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/나머지구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/나머지구하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/나이출력.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/나이출력/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/두수의곱.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의곱/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/두수의나눗셈.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의나눗셈/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/두수의차.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의차/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/두수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/두수의합/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/몫구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/몫구하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/문자열뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/문자열뒤집기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/배열뒤집기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/배열뒤집기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/배열원소의길이.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/배열원소의길이/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/배열의평균값.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/배열의평균값/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/숫자비교하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/숫자비교하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/양꼬치.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/양꼬치/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/점의위치구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/점의위치구하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/중복된숫자개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/중복된숫자개수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/짝수의합.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/짝수의합/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/짝수홀수개수.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/짝수홀수개수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/피자나눠먹기1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/피자나눠먹기1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/피자나눠먹기3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/피자나눠먹기3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/자릿수더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/자릿수더하기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,64 +86,19 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lv0.짝수는싫어요.Solution">
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lv0.특정문자제거하기.Solution" />
-      <module name="programmers_ct.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lv0.특정문자제거하기.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="lv0.짝수는싫어요.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lv0.짝수는싫어요.Solution" />
-      <module name="programmers_ct.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lv0.짝수는싫어요.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="programmers_ct.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test.t2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="programmers_ct.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.test" />
-      <option name="METHOD_NAME" value="t2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lv1.합성수찾기" />
+      <recent name="lv1.피자나눠먹기2" />
+      <recent name="lv1.최댓값만들기2" />
+      <recent name="lv1.직각삼각형출력하기" />
+      <recent name="lv1.주사위의개수" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.test.t7">
     <configuration name="test.t3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="programmers_ct.test" />
       <extension name="coverage">
@@ -177,13 +115,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test.t5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programmers_ct.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test" />
+      <option name="METHOD_NAME" value="t5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.t6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programmers_ct.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test" />
+      <option name="METHOD_NAME" value="t6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.t7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programmers_ct.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test" />
+      <option name="METHOD_NAME" value="t7" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.t8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="programmers_ct.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.test" />
+      <option name="METHOD_NAME" value="t8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lv0.짝수는싫어요.Solution" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="JUnit.test.t7" />
+        <item itemvalue="JUnit.test.t6" />
+        <item itemvalue="JUnit.test.t5" />
+        <item itemvalue="JUnit.test.t8" />
         <item itemvalue="JUnit.test.t3" />
-        <item itemvalue="JUnit.test.t2" />
-        <item itemvalue="JUnit.test" />
       </list>
     </recent_temporary>
   </component>
@@ -198,12 +200,27 @@
       <workItem from="1677043962253" duration="8857000" />
       <workItem from="1677054099033" duration="5275000" />
       <workItem from="1677110640262" duration="11476000" />
-      <workItem from="1677196694903" duration="12493000" />
+      <workItem from="1677196694903" duration="15678000" />
+      <workItem from="1677460441823" duration="14000" />
+      <workItem from="1678060448834" duration="2386000" />
+      <workItem from="1678147411093" duration="3471000" />
+      <workItem from="1678347577676" duration="2498000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -212,6 +229,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/lv0/짝수는싫어요/Solution.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/test.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/Polynomial.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
