@@ -5,30 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/n의배수고르기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/가위바위보/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/가장큰수찾기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/게임369/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/대문자와소문자/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/모스부호1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/배열회전시키기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/세균증식/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/숫자찾기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/암호해독/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/약수구하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/외계행성의나이/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/인덱스바꾸기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/주사위의개수/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/직각삼각형출력하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/최댓값만들기2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/피자나눠먹기2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/합성수찾기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Polynomial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv0/자릿수더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv0/자릿수더하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/배열회전시키기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/배열회전시키기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Polynomial.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -204,7 +184,12 @@
       <workItem from="1677460441823" duration="14000" />
       <workItem from="1678060448834" duration="2386000" />
       <workItem from="1678147411093" duration="3471000" />
-      <workItem from="1678347577676" duration="2498000" />
+      <workItem from="1678347577676" duration="3025000" />
+      <workItem from="1678365441165" duration="79000" />
+      <workItem from="1678408131270" duration="834000" />
+      <workItem from="1678421414587" duration="74000" />
+      <workItem from="1678429132415" duration="293000" />
+      <workItem from="1678781359602" duration="2359000" />
     </task>
     <servers />
   </component>
@@ -229,16 +214,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/lv0/짝수는싫어요/Solution.java</url>
           <line>10</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/test.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/org/example/Polynomial.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
