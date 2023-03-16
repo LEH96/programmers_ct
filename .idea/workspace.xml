@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열정렬하기1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/배열회전시키기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/배열회전시키기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/Polynomial.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/가장큰수찾기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/가장큰수찾기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -189,7 +186,10 @@
       <workItem from="1678408131270" duration="834000" />
       <workItem from="1678421414587" duration="74000" />
       <workItem from="1678429132415" duration="293000" />
-      <workItem from="1678781359602" duration="2359000" />
+      <workItem from="1678781359602" duration="3135000" />
+      <workItem from="1678844796649" duration="601000" />
+      <workItem from="1678863760631" duration="601000" />
+      <workItem from="1678954940569" duration="727000" />
     </task>
     <servers />
   </component>
