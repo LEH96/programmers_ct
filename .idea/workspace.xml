@@ -6,8 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/외계행성의나이/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/외계행성의나이/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/최댓값만들기2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/최댓값만들기2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/게임369/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/게임369/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/숫자찾기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/숫자찾기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/약수구하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/약수구하기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,7 +194,8 @@
       <workItem from="1678954940569" duration="1637000" />
       <workItem from="1679018339635" duration="11000" />
       <workItem from="1679040244019" duration="2037000" />
-      <workItem from="1679299470605" duration="828000" />
+      <workItem from="1679299470605" duration="1820000" />
+      <workItem from="1679384662117" duration="2430000" />
     </task>
     <servers />
   </component>
