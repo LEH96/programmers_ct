@@ -5,27 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/A로B만들기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/k의개수/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/가까운수/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/공던지기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/구슬을나누는경우의수/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열계산하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/삼각형의완성조건2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/소인수분해/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/숨어있는숫자의덧셈2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/영어가싫어요/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/외계어사전/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/이진수더하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/이차원으로만들기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/잘라서배열로저장하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/중복된문자제거/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/진료순서정하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/칠의개수/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/컨트롤제트/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/팩토리얼/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/한번만등장한문자/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/한번만등장한문자/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/한번만등장한문자/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -217,6 +198,10 @@
       <workItem from="1679747095502" duration="3000" />
       <workItem from="1679803998997" duration="12279000" />
       <workItem from="1679873498155" duration="5624000" />
+      <workItem from="1679904273126" duration="1235000" />
+      <workItem from="1679923306660" duration="2240000" />
+      <workItem from="1679963171989" duration="599000" />
+      <workItem from="1679984177343" duration="679000" />
     </task>
     <servers />
   </component>
