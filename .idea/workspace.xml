@@ -6,7 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/한번만등장한문자/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/한번만등장한문자/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/공던지기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/공던지기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/구슬을나누는경우의수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/구슬을나누는경우의수/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열계산하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열계산하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/삼각형의완성조건2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/삼각형의완성조건2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/소인수분해/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/소인수분해/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/영어가싫어요/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/영어가싫어요/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/외계어사전/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/외계어사전/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/잘라서배열로저장하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/잘라서배열로저장하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/칠의개수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/칠의개수/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/컨트롤제트/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/컨트롤제트/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,24 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
@@ -75,19 +85,16 @@
       <recent name="lv1.진료순서정하기" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.test.t7">
-    <configuration name="test.t3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="programmers_ct.test" />
+  <component name="RunManager" selected="애플리케이션.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="programmers_ct.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.test" />
-      <option name="METHOD_NAME" value="t3" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -158,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="JUnit.test.t7" />
         <item itemvalue="JUnit.test.t6" />
         <item itemvalue="JUnit.test.t5" />
         <item itemvalue="JUnit.test.t8" />
-        <item itemvalue="JUnit.test.t3" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +208,8 @@
       <workItem from="1679904273126" duration="1235000" />
       <workItem from="1679923306660" duration="2240000" />
       <workItem from="1679963171989" duration="599000" />
-      <workItem from="1679984177343" duration="679000" />
+      <workItem from="1679984177343" duration="717000" />
+      <workItem from="1680586515443" duration="8597000" />
     </task>
     <servers />
   </component>
