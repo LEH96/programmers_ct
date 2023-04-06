@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/OX퀴즈/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/겹치는선분의길이/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/다음에올숫자/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/다항식더하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/등수매기기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/로그인성공/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열밀기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/분수의덧셈/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/안전지대/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/연속된수의합/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/옹알이1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/유한소수판별하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/저주의숫자3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/종이자르기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/직사각형넓이구하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/최빈값구하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/치킨쿠폰/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/캐릭터의좌표/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/특이한정렬/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/평행/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/공던지기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/공던지기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/구슬을나누는경우의수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/구슬을나누는경우의수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열계산하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열계산하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/삼각형의완성조건2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/삼각형의완성조건2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/소인수분해/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/소인수분해/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/영어가싫어요/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/영어가싫어요/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/외계어사전/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/외계어사전/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/잘라서배열로저장하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/잘라서배열로저장하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/칠의개수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/칠의개수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/컨트롤제트/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/컨트롤제트/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +64,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/lutea/OneDrive/바탕 화면/misson_gramgram&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lv1.한번만등장한문자" />
-      <recent name="lv1.팩토리얼" />
-      <recent name="lv1.컨트롤제트" />
-      <recent name="lv1.칠의개수" />
-      <recent name="lv1.진료순서정하기" />
+      <recent name="lv1.평행" />
+      <recent name="lv1.특이한정렬" />
+      <recent name="lv1.캐릭터의좌표" />
+      <recent name="lv1.치킨쿠폰" />
+      <recent name="lv1.최빈값구하기" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.Main">
@@ -209,7 +220,10 @@
       <workItem from="1679923306660" duration="2240000" />
       <workItem from="1679963171989" duration="599000" />
       <workItem from="1679984177343" duration="717000" />
-      <workItem from="1680586515443" duration="8597000" />
+      <workItem from="1680586515443" duration="8684000" />
+      <workItem from="1680622098765" duration="26000" />
+      <workItem from="1680760917478" duration="1441000" />
+      <workItem from="1680763276824" duration="3699000" />
     </task>
     <servers />
   </component>
