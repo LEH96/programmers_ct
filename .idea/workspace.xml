@@ -5,27 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/OX퀴즈/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/겹치는선분의길이/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/다음에올숫자/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/다항식더하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/등수매기기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/로그인성공/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열밀기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/분수의덧셈/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/안전지대/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/연속된수의합/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/옹알이1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/유한소수판별하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/저주의숫자3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/종이자르기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/직사각형넓이구하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/최빈값구하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/치킨쿠폰/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/캐릭터의좌표/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/특이한정렬/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/평행/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/다항식더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/다항식더하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/등수매기기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/등수매기기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열밀기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열밀기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/유한소수판별하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/유한소수판별하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/저주의숫자3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/저주의숫자3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/특이한정렬/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/특이한정렬/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +40,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2M549YRXikZw1mXKWh8H00VCvsW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -223,7 +209,8 @@
       <workItem from="1680586515443" duration="8684000" />
       <workItem from="1680622098765" duration="26000" />
       <workItem from="1680760917478" duration="1441000" />
-      <workItem from="1680763276824" duration="3699000" />
+      <workItem from="1680763276824" duration="4333000" />
+      <workItem from="1680855211592" duration="1226000" />
     </task>
     <servers />
   </component>
