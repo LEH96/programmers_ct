@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/OX퀴즈/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/OX퀴즈/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/다음에올숫자/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/다음에올숫자/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/다항식더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/다항식더하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/등수매기기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/등수매기기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/연속된수의합/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/연속된수의합/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/안전지대/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/안전지대/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/lv1/최빈값구하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/최빈값구하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/특이한정렬/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/특이한정렬/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +208,10 @@
       <workItem from="1680763276824" duration="4333000" />
       <workItem from="1680855211592" duration="2132000" />
       <workItem from="1680927508454" duration="5923000" />
-      <workItem from="1681113650674" duration="2204000" />
+      <workItem from="1681113650674" duration="2873000" />
+      <workItem from="1681186177985" duration="9000" />
+      <workItem from="1681200939582" duration="342000" />
+      <workItem from="1681201291823" duration="1667000" />
     </task>
     <servers />
   </component>

@@ -1,25 +1,22 @@
 package lv1.최빈값구하기;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class Solution {
     public int solution(int[] array) {
-        int x; int y; int z;
-        int xNum; int yNum; int zNum;
-        Arrays.sort(array);
-        if(array.length % 2 == 1){
-            x = array[array.length/2 - 1];
-            y = array[array.length/2];
-            z = array[array.length/2 + 1];
-        } else {
-            x = array[array.length/2 - 1];
-            x = array[array.length/2];
+        Map<Integer, Integer> cntMap = new LinkedHashMap<>();
+        int maxCnt = 0;
+        int answer = 0;
+
+        for(int num : array){
+            int count = cntMap.getOrDefault(num, 0) + 1;
+
+            if(count > maxCnt) { maxCnt = count; answer = num; }
+            else if(count == maxCnt){ answer = -1; }
+
+            cntMap.put(num, count);
         }
 
-        if(z == 1){
-            Math.ma
-        } else {
-
-        }
+        return answer;
     }
 }
