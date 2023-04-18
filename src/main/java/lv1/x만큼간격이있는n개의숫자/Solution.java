@@ -4,13 +4,11 @@ public class Solution {
     public long[] solution(int x, int n) {
         long[] answer = new long[n];
 
-        if(x > 0)
-            for(int i=x ; i<=x*n ; i+=x)
-                answer[i] = i;
-        else if(x < 0)
-            for(int i=x ; i<x*n ; i+=x)
-                answer[i] = i;
+        while(n > 0) {
+            answer[n - 1] = (long)x * n;
+            n--;
+        }
 
-        return answer;ss
+        return answer;
     }
 }

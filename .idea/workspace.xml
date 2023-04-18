@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/x만큼간격이있는n개의숫자/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/x만큼간격이있는n개의숫자/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열을정수로바꾸기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열을정수로바꾸기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +71,11 @@
       <recent name="org.example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lv1.평행" />
-      <recent name="lv1.특이한정렬" />
-      <recent name="lv1.캐릭터의좌표" />
-      <recent name="lv1.치킨쿠폰" />
-      <recent name="lv1.최빈값구하기" />
+      <recent name="lv1.평균구하기" />
+      <recent name="lv1.짝수와홀수" />
+      <recent name="lv1.정수내림차순으로배치하기" />
+      <recent name="lv1.정수제곱근판별" />
+      <recent name="lv1.자연수뒤집어배열로만들기" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.Main">
@@ -213,6 +215,8 @@
       <workItem from="1681369277663" duration="1288000" />
       <workItem from="1681459712301" duration="2034000" />
       <workItem from="1681609710722" duration="9000" />
+      <workItem from="1681715315642" duration="3615000" />
+      <workItem from="1681804908061" duration="1917000" />
     </task>
     <servers />
   </component>
