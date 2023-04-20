@@ -1,4 +1,4 @@
-package lv1.자연수뒤집어배열로만들기;
+package lv1.solved.자연수뒤집어배열로만들기;
 
 import java.util.ArrayList;
 import java.util.List;

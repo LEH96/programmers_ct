@@ -1,4 +1,4 @@
-package lv1.정수내림차순으로배치하기;
+package lv1.solved.정수내림차순으로배치하기;
 
 import java.util.Arrays;
 import java.util.Comparator;

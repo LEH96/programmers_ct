@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/서울에서김서방찾기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/나누어떨어지는숫자배열/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/나머지가1이되는수찾기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/두정수사이의합/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/없는숫자더하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/음양더하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/제일작은수제거하기/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/콜라츠추측/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/하샤드수/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/핸드폰번호가리기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/x만큼간격이있는n개의숫자/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/x만큼간격이있는n개의숫자/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열을정수로바꾸기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열을정수로바꾸기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/x만큼간격이있는n개의숫자/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/x만큼간격이있는n개의숫자/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열내p와y의개수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/문자열내p와y의개수/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열을정수로바꾸기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/문자열을정수로바꾸기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/약수의합/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/약수의합/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/자릿수더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/자릿수더하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/자연수뒤집어배열로만들기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/자연수뒤집어배열로만들기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/정수내림차순으로배치하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/정수내림차순으로배치하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/정수제곱근판별/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/정수제곱근판별/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/짝수와홀수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/짝수와홀수/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/평균구하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/평균구하기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +77,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;,
@@ -71,11 +89,11 @@
       <recent name="org.example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lv1.평균구하기" />
-      <recent name="lv1.짝수와홀수" />
-      <recent name="lv1.정수내림차순으로배치하기" />
-      <recent name="lv1.정수제곱근판별" />
-      <recent name="lv1.자연수뒤집어배열로만들기" />
+      <recent name="lv1.핸드폰번호가리기" />
+      <recent name="lv1.하샤드수" />
+      <recent name="lv1.콜라츠추측" />
+      <recent name="lv1.제일작은수제거하기" />
+      <recent name="lv1.음양더하기" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.Main">
@@ -216,7 +234,10 @@
       <workItem from="1681459712301" duration="2034000" />
       <workItem from="1681609710722" duration="9000" />
       <workItem from="1681715315642" duration="3615000" />
-      <workItem from="1681804908061" duration="1917000" />
+      <workItem from="1681804908061" duration="1991000" />
+      <workItem from="1681864569063" duration="5000" />
+      <workItem from="1681864628193" duration="127000" />
+      <workItem from="1681975133941" duration="2497000" />
     </task>
     <servers />
   </component>

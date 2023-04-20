@@ -1,4 +1,4 @@
-package lv1.정수제곱근판별;
+package lv1.solved.정수제곱근판별;
 
 public class Solution {
     public long solution(long n) {

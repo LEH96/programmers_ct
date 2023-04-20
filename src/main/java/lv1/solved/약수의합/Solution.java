@@ -1,4 +1,4 @@
-package lv1.약수의합;
+package lv1.solved.약수의합;
 
 import java.util.ArrayList;
 import java.util.List;

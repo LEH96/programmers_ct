@@ -1,4 +1,4 @@
-package lv1.자릿수더하기;
+package lv1.solved.자릿수더하기;
 
 public class Solution {
     public int solution(int n) {

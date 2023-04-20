@@ -1,4 +1,4 @@
-package lv1.x만큼간격이있는n개의숫자;
+package lv1.solved.x만큼간격이있는n개의숫자;
 
 public class Solution {
     public long[] solution(int x, int n) {

@@ -1,4 +1,4 @@
-package lv1.평균구하기;
+package lv1.solved.평균구하기;
 
 import java.util.Arrays;
 

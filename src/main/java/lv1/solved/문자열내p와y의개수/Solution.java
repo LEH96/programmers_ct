@@ -1,4 +1,4 @@
-package lv1.문자열내p와y의개수;
+package lv1.solved.문자열내p와y의개수;
 
 public class Solution {
     boolean solution(String s) {
