@@ -1,4 +1,4 @@
-package lv1.없는숫자더하기;
+package lv1.solved.없는숫자더하기;
 
 
 public class Solution {

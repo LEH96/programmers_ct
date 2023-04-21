@@ -1,4 +1,4 @@
-package lv1.음양더하기;
+package lv1.solved.음양더하기;
 
 public class Solution {
     public int solution(int[] absolutes, boolean[] signs) {

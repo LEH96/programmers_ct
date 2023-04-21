@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/없는숫자더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/없는숫자더하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/음양더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/음양더하기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/핸드폰번호가리기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/핸드폰번호가리기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/나누어떨어지는숫자배열/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/나누어떨어지는숫자배열/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/없는숫자더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/없는숫자더하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/음양더하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/음양더하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/제일작은수제거하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/제일작은수제거하기/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +221,7 @@
       <workItem from="1681864569063" duration="5000" />
       <workItem from="1681864628193" duration="127000" />
       <workItem from="1681975133941" duration="2934000" />
-      <workItem from="1682050842703" duration="1146000" />
+      <workItem from="1682050842703" duration="4732000" />
     </task>
     <servers />
   </component>
