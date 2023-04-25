@@ -1,4 +1,4 @@
-package lv1.핸드폰번호가리기;
+package lv1.solved.핸드폰번호가리기;
 
 public class Solution {
     public String solution(String phone_number) {
