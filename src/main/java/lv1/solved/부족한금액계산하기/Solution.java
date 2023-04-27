@@ -1,4 +1,4 @@
-package lv1.부족한금액계산하기;
+package lv1.solved.부족한금액계산하기;
 
 public class Solution {
     public long solution(int price, int money, int count) {

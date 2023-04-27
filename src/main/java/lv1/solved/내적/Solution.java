@@ -1,4 +1,4 @@
-package lv1.내적;
+package lv1.solved.내적;
 
 public class Solution {
     public long solution(int[] a, int[] b) {

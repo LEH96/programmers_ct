@@ -1,4 +1,4 @@
-package lv1.약수의개수와덧셈;
+package lv1.solved.약수의개수와덧셈;
 
 public class Solution {
     public int solution(int left, int right) {

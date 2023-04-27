@@ -1,4 +1,4 @@
-package lv1.문자열내림차순으로배치하기;
+package lv1.solved.문자열내림차순으로배치하기;
 
 import java.util.Arrays;
 

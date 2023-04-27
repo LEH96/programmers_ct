@@ -1,4 +1,4 @@
-package lv1.수박수박수박수박수박수;
+package lv1.solved.수박수박수박수박수박수;
 
 public class Solution {
     public String solution(int n) {

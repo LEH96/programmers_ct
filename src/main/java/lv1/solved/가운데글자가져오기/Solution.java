@@ -1,4 +1,4 @@
-package lv1.가운데글자가져오기;
+package lv1.solved.가운데글자가져오기;
 
 public class Solution {
     public String solution(String s) {
