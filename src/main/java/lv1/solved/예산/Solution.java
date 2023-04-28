@@ -8,14 +8,14 @@ public class Solution {
         Arrays.sort(d);
 
         for(int i=0 ; i<d.length ; i++){
-            if(total > budget)
-                return i-1;
-            if(total == budget)
+            if(total + d[i] > budget)
                 return i;
+            if(total + d[i] == budget)
+                return i + 1;
 
             total += d[i];
         }
 
-        return total > budget ? d.length - 1 : d.length ;
+        return d.length;
     }
 }
