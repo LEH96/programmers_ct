@@ -5,7 +5,7 @@ public class Solution {
         StringBuilder answer = new StringBuilder();
         for(char c : s.toCharArray()){
             if('A' <= c && c <='Z' || 'a' <= c && c <='z') {
-                if(c <='Z' && c + n > 'Z' || c + n > 'z') {
+                if(c <='Z' && c + n > 'Z') {
                     c = (char)(c + n - 26);
                 } else if('a' <= c && c + n > 'z') {
                     c = (char)(c + n - 26);
