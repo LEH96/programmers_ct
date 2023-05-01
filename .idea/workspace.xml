@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="" />
+    <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/k번째수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/k번째수/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/문자열내마음대로정렬하기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/문자열내마음대로정렬하기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/비밀지도/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/비밀지도/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/삼총사/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/삼총사/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/최소직사각형/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/최소직사각형/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,6 +230,9 @@
       <workItem from="1682579803110" duration="4463000" />
       <workItem from="1682668717513" duration="1574000" />
       <workItem from="1682670521151" duration="27000" />
+      <workItem from="1682670781965" duration="45000" />
+      <workItem from="1682852490119" duration="5000" />
+      <workItem from="1682924309243" duration="4386000" />
     </task>
     <servers />
   </component>
