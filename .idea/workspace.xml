@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv0/크기가작은부분문자열/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/두개뽑아서더하기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/소수만들기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/소수찾기/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/콜라문제/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/폰켓몬/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/푸드파이트대회/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/년도2016/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/숫자문자열과영단어/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/폰켓몬/Solution.java" beforeDir="false" />
-    </list>
+    <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -239,7 +226,7 @@
       <workItem from="1682670781965" duration="45000" />
       <workItem from="1682852490119" duration="5000" />
       <workItem from="1682924309243" duration="4472000" />
-      <workItem from="1683001150167" duration="5861000" />
+      <workItem from="1683001150167" duration="6189000" />
     </task>
     <servers />
   </component>
