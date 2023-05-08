@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="" />
+    <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,11 +69,11 @@
       <recent name="org.example" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="lv1.푸드파이트대회" />
-      <recent name="lv1.크기가작은부분문자열" />
-      <recent name="lv1.콜라문제" />
-      <recent name="lv1.숫자문자열과영단어" />
-      <recent name="lv1.소수찾기" />
+      <recent name="lv1.실패율" />
+      <recent name="lv1.숫자짝꿍" />
+      <recent name="lv1.명예의전당1" />
+      <recent name="lv1.로또의최고순위와최저순위" />
+      <recent name="lv1.다트게임" />
     </key>
   </component>
   <component name="RunManager" selected="애플리케이션.Main">
@@ -227,6 +229,11 @@
       <workItem from="1682852490119" duration="5000" />
       <workItem from="1682924309243" duration="4472000" />
       <workItem from="1683001150167" duration="6189000" />
+      <workItem from="1683181072407" duration="3797000" />
+      <workItem from="1683186777184" duration="600000" />
+      <workItem from="1683381455670" duration="36000" />
+      <workItem from="1683424411501" duration="431000" />
+      <workItem from="1683506271565" duration="15000" />
     </task>
     <servers />
   </component>

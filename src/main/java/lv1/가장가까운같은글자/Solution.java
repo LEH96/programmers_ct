@@ -1,19 +1,24 @@
 package lv1.가장가까운같은글자;
 
+import java.util.*;
+
 public class Solution {
     public int[] solution(String s) {
-        loc = {}
-        for i in set(s):
-        loc[i] = -1
+        Map<Character, Integer> loc = new LinkedHashMap<>();
+        for(char c : s.toCharArray()){
+            if(!loc.containsKey(c))
+                loc.put(c, -1);
+        }
 
-        answer = []
-        for i in range(len(s)):
-        if loc[s[i]] == -1:
-        answer.append(-1)
-            else:
-        answer.append(i - loc[s[i]])
-        loc[s[i]] = i
+        int[] answer = new int[s.length()];
+        for(int i=0 ; i<s.length() ; i++) {
+            if(loc.get(s.charAt(i)) == -1)
+                answer[i] = -1;
+            else
+                answer[i] = i - loc.get(s.charAt(i));
+            loc.put(s.charAt(i), i);
+        }
 
-        return answer
+        return answer;
     }
 }

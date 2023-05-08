@@ -1,4 +1,4 @@
-package lv1.로또의최고순위와최저순위;
+package lv1.solved.로또의최고순위와최저순위;
 
 import java.util.Arrays;
 

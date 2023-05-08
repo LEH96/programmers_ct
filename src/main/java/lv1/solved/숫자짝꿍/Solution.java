@@ -1,4 +1,4 @@
-package lv1.숫자짝꿍;
+package lv1.solved.숫자짝꿍;
 
 public class Solution {
     public String solution(String X, String Y) {
