@@ -1,21 +1,25 @@
 package lv1.명예의전당1;
 
+import java.util.LinkedList;
+import java.util.List;
+import java.util.PriorityQueue;
+
 public class Solution {
     public int[] solution(int k, int[] score) {
-        import heapq
+        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        List<Integer> answer = new LinkedList<>();
 
-        def solution(k, score):
-        pq, answer = [], []
-        for n in score:
-        if len(pq) >= k:
-        if n > pq[0]:
-        heapq.heappop(pq)
-        heapq.heappush(pq, n)
-                else:
-        heapq.heappush(pq, n)
+        for(int n : score) {
+            if(queue.size() >= k) {
+                if (n > queue.peek()) {
+                    queue.poll();
+                    queue.add(n);
+                }
+            }
+            else { queue.add(n); }
+            answer.add(queue.peek());
+        }
 
-        answer.append(pq[0])
-
-        return answer
+        return answer.stream().mapToInt(Integer::intValue).toArray();
     }
 }

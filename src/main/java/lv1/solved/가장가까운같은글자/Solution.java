@@ -1,4 +1,4 @@
-package lv1.가장가까운같은글자;
+package lv1.solved.가장가까운같은글자;
 
 import java.util.*;
 

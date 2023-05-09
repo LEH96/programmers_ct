@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Solution {
     public int solution(int number, int limit, int power) {
         int[] primeArr = new int[number+1];
-        for(int i=1 ; i<=number ; i++){d
+        for(int i=1 ; i<=number ; i++){
             int p = getPrime(i);
             if(p > limit)
                 primeArr[i] = power;
