@@ -1,4 +1,4 @@
-package lv1.명예의전당1;
+package lv1.solved.명예의전당1;
 
 import java.util.LinkedList;
 import java.util.List;

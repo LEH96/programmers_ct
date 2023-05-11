@@ -1,4 +1,4 @@
-package lv1.기사단원의무기;
+package lv1.solved.기사단원의무기;
 
 import java.util.Arrays;
 

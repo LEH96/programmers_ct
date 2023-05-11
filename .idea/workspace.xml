@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97c5ef9f-e50f-45a5-a1c6-fc197d70f663" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/과일장수/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/가장가까운같은글자/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/가장가까운같은글자/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/과일장수/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/과일장수/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/기사단원의무기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/기사단원의무기/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/명예의전당1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/명예의전당1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/과일장수/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/기사단원의무기/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/기사단원의무기/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lv1/명예의전당1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lv1/solved/명예의전당1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,6 +239,11 @@
       <workItem from="1683424411501" duration="431000" />
       <workItem from="1683506271565" duration="15000" />
       <workItem from="1683532027114" duration="8019000" />
+      <workItem from="1683606409692" duration="632000" />
+      <workItem from="1683610353800" duration="3191000" />
+      <workItem from="1683614263241" duration="18000" />
+      <workItem from="1683781911886" duration="64000" />
+      <workItem from="1683782496965" duration="359000" />
     </task>
     <servers />
   </component>
